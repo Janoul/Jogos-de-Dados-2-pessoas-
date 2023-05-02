@@ -10,7 +10,7 @@ const resultadoFinalRodada = document.getElementById("resultadoFinalRodada");
 const resultadoFinal = document.getElementById("resultadoFinal");
 const h2Rodada = document.getElementById("h2Rodada");
 
-const maxRodadas = 3;
+const maxRodadas = 10;
 let rodadas = 0; // quantidade de rodadas já jogadas
 let dado1; // valor do dado do jogador 1
 let dado2; // valor do dado do jogador 2
